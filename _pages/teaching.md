@@ -19,9 +19,12 @@ _____________
 
 {% include base_path %}
 
-Experience
+Selected Experience
 ====
 _______________________
+**Postdoc Fellow (Sept, 2025 - Sept, 2027)**
+* Carleton University, Ottawa, Canada
+* 
 **Postdoc Fellow (Mar, 2022 - Mar, 2023)**
 * Carleton University, Ottawa, Canada
 
@@ -40,7 +43,7 @@ _______________________
 **Operation Management Center (OMC) Engineer (Jun, 2008 - Mar, 2009)**
 * Vietnam mobile services company (VMS-Mobifone) - Zone 3, Can Tho City, Vietnam.
 
-Teaching Assistance
+Selected Teaching Assistance
 ===========
 ________________
 * SYSC5801F/W - Advanced Topic in Computer Communications (2016F, 2016W)
@@ -49,7 +52,7 @@ ________________
 * SYSC2004 – Object-Oriented Software Development (LEC) (2018F, 2018W, 2019W)
 * ECOR1606 – Problem Solving and Computers (2017W, 2017S)	
 
-Professional Services
+Selected Professional Services
 ============
 ________________
 **Advisory Board Member**
@@ -59,19 +62,20 @@ ________________
   
 ________________
 **Guest Editor**
-* [MDPI Future Internet](https://www.mdpi.com/journal/futureinternet/special_issues/HWGT693C06) Special Issue: Task Offloading and Resource Allocation for IoT in Next-Generation Networking
+* [MDPI Future Internet](https://www.mdpi.com/journal/futureinternet/special_issues/9TI1TUPU15) Special Issue: Task Offloading and Resource Allocation for IoT in Next-Generation Networking - 2nd Edition
+* [MDPI Future Internet](https://www.mdpi.com/journal/futureinternet/special_issues/HWGT693C06) Special Issue: Task Offloading and Resource Allocation for IoT in Next-Generation Networking - 1st Edition
   
 ________________
 **TPC Member**
 *	IEEE International Wireless Communications & Mobile Computing Conference (IWCMC 2024-2025)
-*	IEEE International Conference on Software Engineering and Artificial Intelligence (SEAI 2024-2026)
-*	IEEE International Conference on Signal Processing and Integrated Networks (SPIN 2024-2025)
+*	IEEE International Conference on Software Engineering and Artificial Intelligence (SEAI 2024-2027)
+*	IEEE International Conference on Signal Processing and Integrated Networks (SPIN 2024-2027)
 *	IEEE International Conference on Intelligent Computing and Next Generation Networks (ICNGN 2024)
 *	IEEE International Conference on Geoinformation Science and Communication Technology (GSCT 2025)
-*	International Conference on Computer Vision Conference (CVC 2026)
-*	International Conference on Computing Conference (Computing 2026)
+*	International Conference on Computer Vision Conference (CVC 2025-2027)
+*	International Conference on Computing Conference (Computing 2025-2027)
 *	International Conference on Computing and Information Technology (CITE 2025)
-*	International Symposium on Intelligent Technology for Future Transportation (ITFT 2024-2025)
+*	International Symposium on Intelligent Technology for Future Transportation (ITFT 2024-2027)
 *	International Conference of Advanced Computer Science & Information Technology (ACSIT 2025)
 *	Intelligent Systems Conference (IntelliSys 2024-2025)
 *	Future of Information and Communication Conference (FICC 2024-2025)
@@ -108,15 +112,13 @@ ________________
   * Springer Nature Journal of Computing
   * Springer Nature Artificial Intelligence Review Journal
   * Springer Nature Wireless Personal Communications
+  * Springer Nature Scientific Reports
   * Wiley IET Software Journal
   * Wiley International Journal of Communication Systems
   * IEC Journal of Networking and Network Applications
   * Scientific Research Journal of Service Science and Management
   * Hindawi Journal of Sensors
-  * MDPI Electronics Journal
-  * MDPI Mathematics Journal
-  * MDPI Sustainability Journal 
-  * MDPI Journal of Marine Science and Engineering
+  * MDPI Electronics / Mathematics/ DRONES / MAKE /Sustainability / Marine Science and Engineering Journals
   * International Journal of Vehicle Information and Communication Systems
 * Conferences: 
   * IEEE Global Communications Conference (GLOBECOM)
